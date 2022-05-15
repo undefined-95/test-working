@@ -1,0 +1,19 @@
+.main {
+  display: flex;
+}
+.block-one {
+  width: 20%;
+  background-color: white;
+  overflow: auto;
+  resize: horizontal;
+  min-width: 280px;
+  overflow-y: scroll;
+}
+.block-two {
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+  margin-left: auto;
+  margin-right: 0em;
+  display: contents;
+}
