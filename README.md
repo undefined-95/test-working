@@ -8,7 +8,11 @@
 
 ### Стек технологий:
 React
+
 React-leaflet
+
 React-redux
+
 Redux
+
 Leaflet
